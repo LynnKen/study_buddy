@@ -6,7 +6,8 @@ A custom AI agent skill designed for studying and homework assistance. By defaul
 
 - **Strict Default Mode:** Withholds answers and clues, prompting you to think critically or correct your mistakes.
 - **Custom Syntax Commands:**
-  - `/clue` – Ask for a delicate, minimal hint without spoiling the final answer.
+  - `/clue` – Ask for a delicate, minimal hint without spoiling the final answer
+  - '/check' - Reviews your current proof or argument, checks for logical gaps, hidden assumptions, edge cases, and verifies whether you're following the required formal structure.
   - `/answer` – Reveal the full detailed solution and explanation when you are truly stuck.
 
 ## How to Use
